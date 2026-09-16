@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 """
 Streamlit chat interface for the local RAG chatbot.
 
@@ -78,3 +79,6 @@ if question := st.chat_input("Ask a question about your documents..."):
                 error_msg = f"Error: {e}\n\nIs Ollama running? Try `ollama serve` in a terminal."
                 st.error(error_msg)
                 st.session_state.messages.append({"role": "assistant", "content": error_msg})
+=======
+""" g """
+>>>>>>> d4cb099f8578e30acf82c2661e0f200050a91095

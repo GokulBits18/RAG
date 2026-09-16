@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Local RAG Chatbot
 
 A fully local Retrieval-Augmented Generation (RAG) chatbot. No API keys, no
@@ -151,3 +152,6 @@ rag-chatbot/
   locally through Ollama.
 - The vector store (`chroma_db/`) is gitignored since it's regenerated from
   `data/` automatically on first run.
+=======
+#
+>>>>>>> d4cb099f8578e30acf82c2661e0f200050a91095
