@@ -1,0 +1,22 @@
+fan/
+
+# Python
+__pycache__/
+*.py[oc]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Vector DB / generated data
+chroma_db/
+*.sqlite3
+
+# Data files (if they're large/local-only)
+data/*
+
+# Env / secrets
+.env
+
+# OS/editor junk
+.DS_Store
