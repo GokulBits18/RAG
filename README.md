@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Local RAG Chatbot
 
 A fully local Retrieval-Augmented Generation (RAG) chatbot. No API keys, no
@@ -154,4 +154,3 @@ rag-chatbot/
   `data/` automatically on first run.
 =======
 #
->>>>>>> d4cb099f8578e30acf82c2661e0f200050a91095
